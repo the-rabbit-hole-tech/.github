@@ -19,11 +19,7 @@ behind all of them; its code is private while I build it.
 - [Brigade-ITSM](https://github.com/Brigade-ITSM): IT service management. In development.
 - [VitalsDA](https://github.com/VitalsDA): healthcare software. Not yet released.
 
-## 📦 Repositories
-
-- [rabbit-docs-theme](https://github.com/the-rabbit-hole-tech/rabbit-docs-theme): the shared Docusaurus theme for my documentation sites.
-
 ## 🤝 Get involved
 
-Issues and pull requests are welcome on rabbit-docs-theme. Each open-source product has its own org with its own
-contributing guide.
+Each open-source product has its own org with its own contributing guide, and issues and pull requests are welcome
+there.
