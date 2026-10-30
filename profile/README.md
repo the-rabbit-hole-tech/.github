@@ -1,18 +1,29 @@
 # the rabbit hole tech 🐇
 
-> 🧰 Shared tooling from the company behind CryptOS-PKI, Sneakers-PAM and Steward-GRC.
+> 🏢 My company, and the workshop where I build the rabbit hole, my interactive portfolio site.
 
-## 🐇 About 'the rabbit hole'
+the rabbit hole tech, llc is my company. It's behind three open-source products, each in its own org, and two
+commercial ones. This org is also where I build the rabbit hole, an interactive portfolio site that shows the work
+behind all of them; its code is private while I build it.
 
-the rabbit hole tech, llc is the company behind three open-source projects, each with its own org:
-[CryptOS-PKI](https://github.com/CryptOS-PKI), an immutable, API-driven PKI operating system;
-[Sneakers-PAM](https://github.com/Sneakers-PAM), privileged access management; and
-[Steward-GRC](https://github.com/Steward-GRC), policy, procedure and compliance management.
+## 🧩 Products
 
-This org holds shared tooling, published for anyone to use. Issues and pull
-requests are welcome on the repos below, and each project org has its own contributing guide.
+**Open source:**
+
+- [CryptOS-PKI](https://github.com/CryptOS-PKI): an immutable, API-driven PKI operating system. It applies the Talos Linux approach to certificate authorities: no SSH, no shell, mTLS gRPC only, and CA keys sealed in the TPM.
+- [Sneakers-PAM](https://github.com/Sneakers-PAM): open-source privileged access management. It covers a credential vault, rotation, approvals, SSH brokering and an appliance.
+- [Steward-GRC](https://github.com/Steward-GRC): open-source governance, risk and compliance. It covers policies and procedures, approval workflows, acknowledgements and a hash-chained audit trail.
+
+**Commercial products:**
+
+- [Brigade-ITSM](https://github.com/Brigade-ITSM): IT service management. In development.
+- [VitalsDA](https://github.com/VitalsDA): healthcare software. Not yet released.
 
 ## 📦 Repositories
 
-- [rabbit-docs-theme](https://github.com/the-rabbit-hole-tech/rabbit-docs-theme): the shared Docusaurus theme for the documentation sites.
-- [node-eslint-config](https://github.com/Bugs5382/node-eslint-config): the shared ESLint config used across my Node projects. It started in this org and now lives under Bugs5382.
+- [rabbit-docs-theme](https://github.com/the-rabbit-hole-tech/rabbit-docs-theme): the shared Docusaurus theme for my documentation sites.
+
+## 🤝 Get involved
+
+Issues and pull requests are welcome on rabbit-docs-theme. Each open-source product has its own org with its own
+contributing guide.
