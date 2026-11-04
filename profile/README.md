@@ -2,11 +2,15 @@
 
 > 🏢 My company, and the workshop where I build the rabbit hole, my interactive portfolio site.
 
-the rabbit hole tech, llc is my company. It's behind three open-source products, each in its own org, and two
-commercial ones. This org is also where I build the rabbit hole, an interactive portfolio site that shows the work
-behind all of them; its code is private while I build it.
+🏠 **Home:** [therabbithole.com](https://therabbithole.com)
+
+## 🧰 Open source
+
+- [rabbit-docs-theme](https://github.com/the-rabbit-hole-tech/rabbit-docs-theme): the shared Docusaurus theme for the documentation sites.
 
 ## 🧩 Products
+
+the rabbit hole tech, llc is my company. It's behind three open-source products, each in its own org, and two commercial ones. This org is also where I build the rabbit hole, an interactive portfolio site that shows the work behind all of them.
 
 **Open source:**
 
@@ -21,5 +25,4 @@ behind all of them; its code is private while I build it.
 
 ## 🤝 Get involved
 
-Each open-source product has its own org with its own contributing guide, and issues and pull requests are welcome
-there.
+Each open-source product has its own org with its own contributing guide, and issues and pull requests are welcome there.
