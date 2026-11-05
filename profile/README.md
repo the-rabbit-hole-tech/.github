@@ -1,12 +1,12 @@
 # the rabbit hole tech 🐇
 
-> 🏢 My company, and the workshop where I build the rabbit hole, my interactive portfolio site.
+> 🏢 A software company building open-source and commercial products.
 
 🏠 **Home:** [therabbithole.com](https://therabbithole.com)
 
-## 🧩 Products
+## 🧩 What we build
 
-the rabbit hole tech, llc is my company. It's behind three open-source products, each in its own org, and two commercial ones. This org is also where I build the rabbit hole, an interactive portfolio site that shows the work behind all of them.
+the rabbit hole tech, llc builds software in the open and for business: three open-source products, each in its own org, and two commercial products. Product news and updates are posted on [therabbithole.com](https://therabbithole.com).
 
 **Open source:**
 
@@ -14,10 +14,15 @@ the rabbit hole tech, llc is my company. It's behind three open-source products,
 - [Sneakers-PAM](https://github.com/Sneakers-PAM): open-source privileged access management. It covers a credential vault, rotation, approvals, SSH brokering and an appliance.
 - [Steward-GRC](https://github.com/Steward-GRC): open-source governance, risk and compliance. It covers policies and procedures, approval workflows, acknowledgements and a hash-chained audit trail.
 
-**Commercial products:**
+**Commercial:**
 
 - [Brigade-ITSM](https://github.com/Brigade-ITSM): IT service management. In development.
 - [VitalsDA](https://github.com/VitalsDA): healthcare software. Not yet released.
+
+## 👥 People
+
+- **Shane Froebel**, Founder ([@Bugs5382](https://github.com/Bugs5382))
+- and the people of the rabbit hole
 
 ## 🤝 Get involved
 
