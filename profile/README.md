@@ -19,6 +19,10 @@ the rabbit hole tech, llc builds software in the open and for business: three op
 - [Brigade-ITSM](https://github.com/Brigade-ITSM): IT service management. In development.
 - [VitalsDA](https://github.com/VitalsDA): healthcare software. Not yet released.
 
+## 🧱 Templates
+
+- [template-os-appliance](https://github.com/the-rabbit-hole-tech/template-os-appliance): a generic appliance template with signed boot, A/B updates that revert on failure, TPM-sealed key custody and a first-boot console. Copy it to start a product's appliance.
+
 ## 👥 People
 
 - **Shane Froebel**, Founder ([@Bugs5382](https://github.com/Bugs5382))
