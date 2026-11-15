@@ -22,6 +22,8 @@ the rabbit hole tech, llc builds software in the open and for business: three op
 ## 🧱 Templates
 
 - [template-os-appliance](https://github.com/the-rabbit-hole-tech/template-os-appliance): a generic appliance template with signed boot, A/B updates that revert on failure, TPM-sealed key custody and a first-boot console. Copy it to start a product's appliance.
+- [template-website-docs](https://github.com/the-rabbit-hole-tech/template-website-docs): a starting point for a product website and versioned docs site, with the shared frame, a consent gate, checks and a Cloudflare Pages deploy, and no brand.
+- [template-node-mock-server](https://github.com/the-rabbit-hole-tech/template-node-mock-server): a starting point for a product's mock gateway, a standalone Node server that speaks the gateway's wire protocol with resettable invented data.
 
 ## 👥 People
 
